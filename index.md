@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vector Graph Neuron Network
 
 You can use the [editor on GitHub](https://github.com/shiyani21/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
